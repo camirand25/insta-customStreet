@@ -1,0 +1,52 @@
+
+
+body{
+    background-image: url(../img/BACKGROUDINSTA.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.formulario1 {
+    background: rgba(0,0,0,.5);
+    padding: 40px 23px; 
+    border-radius: 118px;
+    justify-content: center;
+    box-shadow: 0 0 20px rgba(0,0,0, 0.9);
+    position: relative;;
+    margin-left: 110px;
+    margin-top: 50px;
+}
+
+.formulario1 a{
+    text-align: center;
+}
+.formulario1 h3{
+    font-family: 'Satisfy', cursive;
+    color: white;
+    font-size: 20px;
+    letter-spacing: 5px;
+}
+.formulario1  hr{
+    background: rgb(167, 165, 165);
+}
+
+.logo{
+    position: fixed; 
+    justify-content: center;
+}
+
+
+.logo img{
+    position: relative;
+    left: 399px;
+    border-radius: 10px;
+}
+ 
+.ingresar{
+    background: linear-gradient(145deg, rgb(0, 102, 255) 0%, rgb(247, 2, 145));
+    font-size: 16px;
+    color: seashell;
+    font-family:-apple-system, 'Helvetica Neue';
+    margin-bottom: 30px;
+}
